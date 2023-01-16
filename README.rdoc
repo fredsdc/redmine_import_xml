@@ -1,0 +1,3 @@
+= redmine_import_xml
+
+Imports Redmine XML files (exported using the Rest API). Select a XML file instead of a CSV when importing issues.
